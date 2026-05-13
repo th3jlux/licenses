@@ -9,4 +9,4 @@ High scores are stored locally on your device using standard iOS storage.
 If analytics or online features are added in the future, this policy may be updated.
 
 Contact:
-your@email.com
+social.thej@outlook.com
